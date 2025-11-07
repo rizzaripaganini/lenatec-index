@@ -22,7 +22,8 @@ ITEM	DESCRIÇÃO
 21	Abraçadeira presilha tire up pacote com 100 Unidades (cor preta)
 22	Fita/abraçadeira dupla face (velcro rolo de 3 m) cor preta
 23	Canaleta 20x12 2Metros com Divisória com Adesivo Sistema X 
-24	Eletrocalha perfurada pré-zincada ou galvanizada a fogo espessura min. 0,95 mm  100x50x3000mm "Ref Elecon EC-CTR01"
+24	"Eletrocalha perfurada pré-zincada ou galvanizada a fogo espessura min. 0,95 mm 
+100x50x3000mm ""Ref Elecon EC-CTR01"""
 25	Tampa de encaixe p/ Eletrocalha 100x50x3000mm (Descida) 
 26	Emenda interna em U para eletrocalha 100 x 50 mm 
 27	Chapa emenda eletrocalha 100mm x 50 mm
@@ -83,6 +84,7 @@ ITEM	DESCRIÇÃO
 82	Terminais Tipo Olhal Pré-isolado ANEL Kit 100pçs 0,5 mm a 1,5 mm - Pacote com 100
 83	Terminais Tipo Olhal Pré-isolado FORQUILHA Kit 100pçs 0,5 mm a 1,5 mm - Pacote com 100
 84	Barramento de Cobre com 12 parafusos
+	FERRAMENTAS TERMO DE REFERÊNCIA
 85	Kit de Ferramentas c/ 7 peças p/ Manutenção/Instalação de Fibra Óptica
 86	Lanterna LED Recarregavel 150 Lumens Bateria de Litio LRV
 87	Rotuladora / etiquetadora Brother
@@ -108,6 +110,7 @@ ITEM	DESCRIÇÃO
 107	Kit de chaves de relojoeiro para manuntenção dos equipamentos de alarme
 108	Ferro de Solda Plus, 50W, 220V "Ref Hikari, Plus SC-60"
 109	Jogo De Soquetes Sextavados 3/8” Polegadas "Ref Gedore Red R59003026"
+	EPI
 110	Óculos de segurança (incolor) 
 111	Respirador Semi-Facial PFF-2/N95 (S/ manutenção e com válvula) 
 112	Protetor auricular tipo PLUG (silicone ou copolímero)
@@ -120,6 +123,7 @@ ITEM	DESCRIÇÃO
 119	Mosquetão oval 
 120	Fita de Ancoragem 
 121	Talabarte de posicionamento em corda com regulador aço inox
+	ITEM EXTRA (NÃO CONSTA NO TERMO DE REFERÊNCIA)
 122	Pincel 16P
 123	Flanelas
 124	Saca Placa (Ventosa)
@@ -147,6 +151,7 @@ ITEM	DESCRIÇÃO
 146	Par Luvas VAQ Silveg
 147	Luva Tatil Plasticor Preta
 148	Bolsa de ferramentas
+	ESTOQUE TRT
 160	Patch cord industrializado CAT 6 - 1,5 MT
 161	Patch cord industrializado CAT 6 - 2,5 MT
 162	Patch cord industrializado CAT 6 - 10 MT
