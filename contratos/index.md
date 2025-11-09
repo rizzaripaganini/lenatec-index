@@ -18,7 +18,6 @@
       Descrição:
       Insumos: Sim( ); Não( );
       Quais: 
-      [item] [quantidade] [descrição] 
       Resolvido: Sim( ); Não( );
       Validado por:
       Observações:
