@@ -2,6 +2,8 @@
     Habilitação de ponto.
     Reparo de ponto.
     Lançamento de cabo lógico.
+    Lançamento de cabo optico.
+    Fusão de cabo optico.
     Reparo de cabo lógico.
     Recrimpagem  de cabo lógico.
     Lançamento de fibra.
