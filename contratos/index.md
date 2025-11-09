@@ -12,6 +12,15 @@
     Instalação/Remoção de AP.
     Utilização de insumos.
 
+### Intro:
+Abrir Google Docs
+
+Realizado o atendimento descrito por XXXXX.  
+Onde foi usado os seguintes insumos: XXXXXX. 
+Validado por: XXXXXX. 
+Com as seguintes observções: XXXXXX
+
+
 ### Cabeçalho:
       Descrição:
       Insumos: Sim( ); Não( );
