@@ -15,10 +15,11 @@
 ### Cabeçalho:
       Descrição:
       Insumos: Sim( ); Não( );
-      Quais:
+      Quais: 
+      [item] [quantidade] [descrição] 
       Resolvido: Sim( ); Não( );
       Validado por:
       Observações:
 
-### Citismat
+### Citsmat
 https://centralservicos.trt18.jus.br/inbox/pages/serviceRequestIncident/serviceRequestIncident.load?iframe=true&language=pt-BR
