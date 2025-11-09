@@ -12,12 +12,6 @@
     Instalação/Remoção de AP.
     Utilização de insumos.
 
-### Intro:
-Escreva uma descrição da [descrição] do serviço a ser executado, em seguida descrever os [Insumos] usados assim como o status de serviço [Resolvido] recebido por [Validado por] sem esquecer de citar uma observação de conclusão do serviço com [Observações]
-
-
-
-
 ### Cabeçalho:
       Descrição:
       Insumos: Sim( ); Não( );
