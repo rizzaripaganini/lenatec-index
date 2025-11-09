@@ -13,12 +13,9 @@
     Utilização de insumos.
 
 ### Intro:
-Abrir Google Docs
+Escreva uma descrição da [descrição] do serviço a ser executado, em seguida descrever os [Insumos] usados assim como o status de serviço [Resolvido] recebido por [Validado por] sem esquecer de citar uma observação de conclusão do serviço com [Observações]
 
-Realizado o atendimento descrito por XXXXX.  
-Onde foi usado os seguintes insumos: XXXXXX. 
-Validado por: XXXXXX. 
-Com as seguintes observções: XXXXXX
+
 
 
 ### Cabeçalho:
