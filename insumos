@@ -1,4 +1,5 @@
 ITEM	DESCRIÇÃO
+### REDES
 1	Organizador de cabo fechado horizontal para rack padrão 19" 55mm
 2	Rack de piso 42U padrão 19" x 1000 mm 
 3	Bandeja para rack 19" de 1U (marca referência: redrack modelo RRBF25PT)
@@ -14,6 +15,7 @@ ITEM	DESCRIÇÃO
 13	Patch cord industrializado CAT 6 – UTP 3,00 m Furukawa Gigalan cor vermelho
 14	Patch panel 24 portas 1U – CAT 6 T568A/B carregado - Marca de referência: Sohoplus
 15	Distribuidor Interno Óptico (DIO) 1U de 19" 
+### INFRAESTRUTURA
 16	Caixa Terminal Óptica CTO 1X8 SC APC FLAT 
 17	Cabo óptico dielétrico Furukawa com 6 fibras Monomodo 
 18	Plaqueta para identificação de cabo óptico externo 
@@ -22,8 +24,7 @@ ITEM	DESCRIÇÃO
 21	Abraçadeira presilha tire up pacote com 100 Unidades (cor preta)
 22	Fita/abraçadeira dupla face (velcro rolo de 3 m) cor preta
 23	Canaleta 20x12 2Metros com Divisória com Adesivo Sistema X 
-24	"Eletrocalha perfurada pré-zincada ou galvanizada a fogo espessura min. 0,95 mm 
-100x50x3000mm ""Ref Elecon EC-CTR01"""
+24	"Eletrocalha perfurada pré-zincada ou galvanizada a fogo espessura min. 0,95 mm 100x50x3000mm ""Ref Elecon EC-CTR01"""
 25	Tampa de encaixe p/ Eletrocalha 100x50x3000mm (Descida) 
 26	Emenda interna em U para eletrocalha 100 x 50 mm 
 27	Chapa emenda eletrocalha 100mm x 50 mm
@@ -84,7 +85,7 @@ ITEM	DESCRIÇÃO
 82	Terminais Tipo Olhal Pré-isolado ANEL Kit 100pçs 0,5 mm a 1,5 mm - Pacote com 100
 83	Terminais Tipo Olhal Pré-isolado FORQUILHA Kit 100pçs 0,5 mm a 1,5 mm - Pacote com 100
 84	Barramento de Cobre com 12 parafusos
-	FERRAMENTAS TERMO DE REFERÊNCIA
+	### FERRAMENTAS TERMO DE REFERÊNCIA
 85	Kit de Ferramentas c/ 7 peças p/ Manutenção/Instalação de Fibra Óptica
 86	Lanterna LED Recarregavel 150 Lumens Bateria de Litio LRV
 87	Rotuladora / etiquetadora Brother
