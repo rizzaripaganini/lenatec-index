@@ -1,1 +1,24 @@
+### Serviços:
+    Habilitação de ponto.
+    Reparo de ponto.
+    Lançamento de cabo lógico.
+    Reparo de cabo lógico.
+    Recrimpagem  de cabo lógico.
+    Lançamento de fibra.
+    Instalação de câmeras CFTV.
+    Remoção ou ajuste de câmeras CFTV.
+    Troca ou ajuste de câmeras CFTV.
+    Alinhamento de câmeras CFTV.
+    Instalação/Remoção de AP.
+    Utilização de insumos.
 
+### Cabeçalho:
+      Descrição:
+      Insumos: Sim( ); Não( );
+      Quais:
+      Resolvido: Sim( ); Não( );
+      Validado por:
+      Observações:
+
+### Citismat
+https://centralservicos.trt18.jus.br/inbox/pages/serviceRequestIncident/serviceRequestIncident.load?iframe=true&language=pt-BR
